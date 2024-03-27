@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\web\\facebook\\facebook-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F75090E-A319-470B-8B75-3F583D194C23}|facebook-api.csproj|d:\\projects\\web\\facebook\\facebook-api\\service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F75090E-A319-470B-8B75-3F583D194C23}|facebook-api.csproj|solutionrelative:service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F75090E-A319-470B-8B75-3F583D194C23}|facebook-api.csproj|d:\\projects\\web\\facebook\\facebook-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F75090E-A319-470B-8B75-3F583D194C23}|facebook-api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\projects\\web\\facebook\\facebook-api\\Service\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\User\\UserService.cs",
+              "ToolTip": "D:\\projects\\web\\facebook\\facebook-api\\Service\\User\\UserService.cs",
+              "RelativeToolTip": "Service\\User\\UserService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:41:57.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projects\\web\\facebook\\facebook-api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\projects\\web\\facebook\\facebook-api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T17:40:36.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

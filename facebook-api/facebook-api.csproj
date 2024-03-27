@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>facebook_api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="dapper" Version="2.1.35" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\image\comment\" />
+    <Folder Include="wwwroot\image\avatar\" />
+    <Folder Include="wwwroot\image\post\" />
+    <Folder Include="wwwroot\templates\" />
+    <Folder Include="wwwroot\video\comment\" />
+    <Folder Include="wwwroot\video\post\" />
+  </ItemGroup>
+
+</Project>
